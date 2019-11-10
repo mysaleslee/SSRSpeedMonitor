@@ -1,7 +1,7 @@
-﻿<Application x:Class="SSRSpeedTest.App"
+﻿<Application x:Class="SSRSpeedMonitor.App"
              xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-             xmlns:local="clr-namespace:SSRSpeedTest"
+             xmlns:local="clr-namespace:SSRSpeedMonitor"
              StartupUri="MainWindow.xaml">
     <Application.Resources>
          
