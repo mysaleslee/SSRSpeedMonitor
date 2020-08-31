@@ -1,4 +1,10 @@
-﻿# SSRSpeedMonitor
+# DEPRACATED
+
+# 该项目已放弃，目前新的客户端都自带测速功能
+
+---
+
+# SSRSpeedMonitor
 # SSR测速及监控工具
 
 能够读取当前目录的gui-config.json或手动选择后，进行简单的批量Ping功能，并记录成功、失败次数，最低、最高、平均延迟。
